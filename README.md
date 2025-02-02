@@ -1,3 +1,7 @@
+Used on Mint with i3 (currenly I am using endeavourOS)
+
+
+
 
               a8888b.
              d888888b.
